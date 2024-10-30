@@ -1,0 +1,32 @@
+.form-field {
+    margin: 10px 0;
+    float: left;
+    width: 50%;
+}
+.rtl .form-field {
+    float: right;
+}
+/* Clear floats after the columns */
+.inside:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.form-field label {
+    display: flex;
+    margin: 5px 0;
+    font-weight: 500;
+}
+
+.form-field input {
+    padding: 2px 5px;
+    border: 1px solid #cbcbcb;
+}
+
+.kitab-fields .dashicons {
+    margin-right: 2px;
+}
+.rtl .kitab-fields .dashicons {
+    margin-left: 2px;
+}

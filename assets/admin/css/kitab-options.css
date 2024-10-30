@@ -1,0 +1,55 @@
+.kitab-options-wrapper .dashicons {
+    margin-right: 5px;
+}
+
+/* butiful style checkbox */
+.kitab-options-wrapper input[type=checkbox] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    display: inline-block;
+    position: relative;
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
+
+.kitab-options-wrapper input[type=checkbox]:checked::before {
+    content: '\2714';
+    font-size: 16px;
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    color: #2271b1;
+}
+
+.kitab-tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.kitab-tooltip .description {
+    visibility: hidden;
+    width: 220px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+
+}
+
+.kitab-tooltip:hover .description {
+    visibility: visible;
+}

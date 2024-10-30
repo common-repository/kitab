@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kitab\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-28 16:28+0000\n"
+"PO-Revision-Date: 2024-01-28 16:51+0000\n"
+"Last-Translator: \n"
+"Language-Team: العربية\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: kitab"
+
+#: includes/classes/options-tabs/layout-options.php:38
+msgid "Above and Below"
+msgstr "أعلى وأسفل المحتوى"
+
+#: includes/classes/options-tabs/layout-options.php:36
+msgid "Above Content"
+msgstr "أعلى المحتوى"
+
+#: kitab.php:176
+msgid "Already rated"
+msgstr "قمتُ بتقييمها"
+
+#: includes/classes/class-postmeta.php:131
+#: includes/classes/class-taxonomies.php:20
+msgid "Author"
+msgstr "المؤلف"
+
+#: includes/classes/class-taxonomies.php:19
+msgid "Authors"
+msgstr "الكُتَّاب"
+
+#: includes/classes/options-tabs/layout-options.php:37
+msgid "Below Content"
+msgstr "أسفل المحتوى"
+
+#: includes/classes/class-posttypes.php:19
+msgid "Book"
+msgstr "كتاب"
+
+#: includes/classes/class-postmeta.php:42
+msgid "Book Details"
+msgstr "بيانات الكتاب"
+
+#: includes/classes/class-postmeta.php:122
+msgid "Book Name"
+msgstr "اسم الكتاب"
+
+#: includes/classes/class-posttypes.php:18
+msgid "Books"
+msgstr "الكتب"
+
+#: includes/classes/class-postmeta.php:195
+msgid "Buy Link"
+msgstr "رابط الشراء"
+
+#: includes/classes/class-postmeta.php:171
+msgid "Copyright Holder"
+msgstr "مالك حقوق النشر"
+
+#: includes/classes/class-postmeta.php:163
+msgid "Copyright Year"
+msgstr "سنة حق الطبع والنشر"
+
+#: includes/classes/options-tabs/layout-options.php:50
+msgid "Data List"
+msgstr "قائمة بيانات"
+
+#: includes/classes/class-postmeta.php:56
+msgid "Disable ads"
+msgstr "تعطيل الإعلانات"
+
+#: includes/classes/options-tabs/layout-options.php:68
+msgid "Disable Downloads in Copyrighted Claims Books"
+msgstr "تعطيل التنزيلات في الكتب التي تنتهك حقوق الطبع والنشر"
+
+#: kitab.php:175
+msgid "Dismiss"
+msgstr "إزالة"
+
+#: includes/classes/options-tabs/layout-options.php:44
+msgid "Display as"
+msgstr "عرض البيانات كـ"
+
+#: includes/classes/class-postmeta.php:147
+msgid "Edition"
+msgstr "الطبعة"
+
+#. Description of the plugin
+msgid ""
+"Enhance your WordPress website with custom book functionality, including "
+"post types, meta, taxonomies, and options."
+msgstr "نظام متكامل لإدارة مواقع الكتب عبر ووردبريس."
+
+#: includes/classes/class-postmeta.php:151
+msgid "Enter the edition of the book"
+msgstr "أدخل طبعة من الكتاب"
+
+#: includes/classes/class-postmeta.php:159
+msgid "Enter the ISBN of the book"
+msgstr "أدخل ISBN الكتاب"
+
+#: includes/classes/class-postmeta.php:135
+msgid "Enter the name of the author"
+msgstr "أدخل اسم المؤلف"
+
+#: includes/classes/class-postmeta.php:126
+msgid "Enter the name of the book"
+msgstr "أدخل اسم الكتاب"
+
+#: includes/classes/class-postmeta.php:175
+msgid "Enter the name of the copyright holder"
+msgstr "أدخل اسم صاحب حق المؤلف"
+
+#: includes/classes/class-postmeta.php:143
+msgid "Enter the number of pages in the book"
+msgstr "أدخل عدد الصفحات في الكتاب"
+
+#: includes/classes/class-postmeta.php:199
+msgid "Enter the URL of the buy link"
+msgstr "أدخل عنوان URL رابط الشراء"
+
+#: includes/classes/class-postmeta.php:191
+msgid "Enter the URL of the EPUB download link"
+msgstr "أدخل عنوان URL EPUB رابط التحميل"
+
+#: includes/classes/class-postmeta.php:183
+msgid "Enter the URL of the PDF download link"
+msgstr "أدخل عنوان URL PDF رابط التحميل"
+
+#: includes/classes/class-postmeta.php:167
+msgid "Enter the year of copyright"
+msgstr "أدخل سنة الطبع والنشر"
+
+#: includes/classes/class-postmeta.php:187
+msgid "EPUB Download"
+msgstr "تحميل EPUB"
+
+#. Author URI of the plugin
+msgid "https://jlil.net"
+msgstr ""
+
+#: includes/classes/class-postmeta.php:155
+msgid "ISBN"
+msgstr "ردمك (ISBN)"
+
+#. Author of the plugin
+msgid "Jlil"
+msgstr "جليل"
+
+#. Name of the plugin
+msgid "Kitab"
+msgstr "كتاب"
+
+#: includes/classes/options-tabs/layout-options.php:39
+msgid "Manually"
+msgstr "يدويا"
+
+#: includes/classes/class-postmeta.php:139
+msgid "Pages"
+msgstr "عدد الصفحات"
+
+#: includes/classes/class-postmeta.php:179
+msgid "PDF Download"
+msgstr "تحميل PDF"
+
+#: includes/classes/class-taxonomies.php:44
+msgid "Publisher"
+msgstr "الناشر"
+
+#: includes/classes/class-taxonomies.php:43
+msgid "Publishers"
+msgstr "الناشرون"
+
+#: kitab.php:174
+msgid "Rate now"
+msgstr "قيّم الآن"
+
+#: includes/classes/options-tabs/layout-options.php:81
+msgid "Select Fields to Show"
+msgstr "حدد البيانات التي تريد عرضها"
+
+#: includes/classes/options-tabs/layout-options.php:30
+msgid "Select Layout Position"
+msgstr "اختر موضع البيانات"
+
+#: includes/classes/options-tabs/general.php:17
+msgid "Select Post Type"
+msgstr "اختر الأنواع المدعومة"
+
+#: includes/classes/options-tabs/general.php:19
+msgid "Select the post types you want to display the book post meta on."
+msgstr "اختر نوع مقالات مخصص لإضافة نظام الكتب إليه."
+
+#: kitab.php:54
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: includes/classes/options-tabs/layout-options.php:56
+msgid "Show Thumbnail"
+msgstr "إظهار الصورة المصغرة"
+
+#: includes/classes/options-tabs/layout-options.php:51
+msgid "Table"
+msgstr "جدول بيانات"
+
+#. Link to the Kitab settings page
+#: kitab.php:110
+#, php-format
+msgid ""
+"Thank you for activating Kitab! Please go to the <a href=\"%s\">Kitab "
+"settings page</a> to complete the setup."
+msgstr ""
+"شكرًا لك! تم تفعيل إضافة كاتب، توجه إلى صفحة <a href=\"%s\">إعدادات "
+"الإضافة</a> لضبط الإعدادات اللازمة."
+
+#: kitab.php:212
+msgid "Thank you for rating Kitab!"
+msgstr "شكرا لك على التقييم!"
+
+#: kitab.php:186
+msgid "Thank you for rating Kitab! ♥"
+msgstr "شكرا لك على التقييم!"
+
+#: kitab.php:172
+msgid ""
+"Thank you for using Kitab! If you enjoy this plugin, please consider leaving "
+"us a rating on the WordPress plugin repository."
+msgstr ""
+"شكرا لك على استخدام إضافة \"كِـتاب\"! إذا استفدت من هذه الإضافة ، نرجو منك "
+"تقييمها."
+
+#: includes/classes/options-tabs/layout-options.php:63
+msgid "Yes"
+msgstr "نعم"
+
+#: includes/classes/options-tabs/layout-options.php:75
+msgid "Yes, Disable"
+msgstr "نعم, تعطيل"
